@@ -19,4 +19,3 @@ for ch in "hello".characters{
     print(ch)
 }
 print("\(a)+\(b)=\(c)")
-
