@@ -20,7 +20,7 @@ for ch in "hello".characters{
 }
 print("\(a)+\(b)=\(c)")
 
-func add(x:Int,y:Int){
-    print("\(x)+\(y)=\(x+y)")
+func add(x:Int,y:Int,z:Int){
+    print("\(x)+\(y)+\(z)=\(x+y+z)")
 }
-add(10,y:20)
+add(10,y:20,z:30)
