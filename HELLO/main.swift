@@ -19,3 +19,8 @@ for ch in "hello".characters{
     print(ch)
 }
 print("\(a)+\(b)=\(c)")
+
+func add(x:Int,y:Int){
+    print("\(x)+\(y)=\(x+y)")
+}
+add(10,y:20)
